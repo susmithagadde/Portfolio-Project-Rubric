@@ -4,14 +4,17 @@ Portfolio using HTML, CSS and Bootstrap
 # My Portfolio
 
 
-This portfolio showcases the **project details** along with logo and footer.
+This Project showcases a **Portfolio Template** along with a logo and a footer.
 
 
-## Project details Includes
+## The Portfolio Includes
 
-- Image which represents the projects.
+- Images which represent the projects.
 - Project title
 - Project Link
+- Logo
+- Footer
+- Designation
 
 
 
