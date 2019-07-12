@@ -1,0 +1,44 @@
+@media screen and (max-width: 575px) {
+  .img-fluid, .project-body {
+    width: 75%;
+    left: 12.53%;
+  }
+  .logo {
+    width: 50px;
+    height: 50px;
+  }
+  .project-info:hover .project-body {
+    padding-bottom: 5%;
+  }
+  .project-title {
+    font-size: 19px;
+  }
+}
+
+@media screen and (max-width: 767px) and (min-width: 575px) {
+  .container {
+    max-width: 720px !important;
+  }
+  .logo {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .name {
+    font-size: 22px;
+  }
+  .sub-heading, .project-title {
+    font-size: 17px;
+  }
+  .footer-copyright {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+  .project-info {
+    width: 85%;
+  }
+}
